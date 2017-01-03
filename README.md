@@ -1,11 +1,14 @@
-frontend-nanodegree-arcade-game
-===============================
+# Frogger game
 
+##frontend-nanodegree-arcade-game
 
-### HOW TO PLAY
-The game can be downloaded from my github account:
-https://github.com/CHIRAGCHOPRA
+==================================================================
+*The game can be downloaded from my github account*:
+**https://github.com/CHIRAGCHOPRA**
+
+### HOW TO PLAY:--
 IT CAN BE PLAYED BY OPENING index.html
+
 ##Game Instructions:
 * Move up: up arrow
 * Move down: down arrow
@@ -13,4 +16,6 @@ IT CAN BE PLAYED BY OPENING index.html
 * Move right: right arrow
 * Reach the water
 * Avoid the bugs
-#score is updated each time.
+
+#Score is updated each time.
+##have fun!
