@@ -2,10 +2,6 @@
 
 ##frontend-nanodegree-arcade-game
 
-==================================================================
-*The game can be downloaded from my github account*:
-**https://github.com/CHIRAGCHOPRA**
-
 ### HOW TO PLAY:--
 IT CAN BE PLAYED BY OPENING index.html
 
